@@ -1,7 +1,7 @@
-# dota2_mathtile_autobot
+# dota2_matchtile_autobot
 Will found moves and perform it (crownfall3)
 
-# Dota 2 Crownfall 3 Mathtile Game Solver
+# Dota 2 Crownfall 3 Matchtile Game Solver
 
 This repository contains a solver for the Dota 2 Crownfall 3 Matchtile game. The solver automates the process of matching tiles in the game using computer vision and automation libraries.
 
